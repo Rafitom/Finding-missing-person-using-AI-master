@@ -16,17 +16,27 @@ A face recognition-based web application built with **Streamlit**. This tool ena
 
 ## 📸 Demo Screenshots
 
-## 📸 Demo Screenshots
+### News Articles
 
-### 📝 Register New Case
-![Register Page](../resources/image-1.png)
+<img src="./resources/image.png" alt="News Article 1" width="400" height="100"/>
+<img src="./resources/image-1.png" alt="News Article 2" width="400" height="100"/>
+<img src="./resources/image-2.png" alt="News Article 3" width="400" height="100"/>
+<img src="./resources/image-3.png" alt="News Article 4" width="400" height="250"/>
 
-### 🔍 Match Found Person
-![Match Result](../resources/image-2.png)
+### Screenshots
 
-### 📂 Browse All Cases
-![All Cases](../resources/image-3.png)
-
+<table>
+  <tr>
+    <td><img src="./resources/ss_image.png" width="200" alt="Description 1"></td>
+    <td><img src="./resources/ss_image-1.png" width="200" alt="Description 2"></td>
+    <td><img src="./resources/ss_image-2.png" width="200" alt="Description 3"></td>
+  </tr>
+  <tr>
+    <td><img src="./resources/ss_image-3.png" width="200" alt="Description 4"></td>
+    <td><img src="./resources/ss_image-4.png" width="200" alt="Description 5"></td>
+    <td><img src="./resources/ss_image-5.png" width="200" alt="Description 6"></td>
+  </tr>
+</table>
 
 ## 🧠 How It Works
 
