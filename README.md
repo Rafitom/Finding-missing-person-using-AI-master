@@ -16,7 +16,7 @@ Hundreds of people (especially children go missing every day) in India. There ar
 
 ### News Articles
 
-<img src="./resources/image.png" alt="News Article 1" width="400" height="100"/>
+<img src="E:\app\Finding-missing-person-using-AI-master\Finding-missing-person-using-AI-master\resources\image-1.png" alt="News Article 1" width="400" height="100"/>
 <img src="./resources/image-1.png" alt="News Article 2" width="400" height="100"/>
 <img src="./resources/image-2.png" alt="News Article 3" width="400" height="100"/>
 <img src="./resources/image-3.png" alt="News Article 4" width="400" height="250"/>
